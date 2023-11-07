@@ -43,7 +43,7 @@ header {
 }
 
 .header-hero {
-    background-image: linear-gradient(rgba(8, 127, 91, 0.5), rgba(250, 176, 5, 0.2)), url(../images/yasu-shots-_y6hMz1pJC0-unsplash1.jpg);
+    background-image: linear-gradient(rgba(8, 127, 91, 0.5), rgba(250, 176, 5, 0.2)),
   background-size: cover;
   background-position: center;
   position: relative;
